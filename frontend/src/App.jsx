@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-const API = "http://127.0.0.1:8000/api";
+const API = "https://multimodal-ai-learning-assistant.onrender.com/api";
 
 // ─── HELPERS ─────────────────────────────────────────────────────────────────
 const token = () => localStorage.getItem("ala_token");
