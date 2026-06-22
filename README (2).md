@@ -20,7 +20,7 @@ Python
 
 JavaScript
 
-****Frontend :****:
+****Frontend : ****:
 
 React.js
 
