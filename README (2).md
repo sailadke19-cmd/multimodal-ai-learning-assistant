@@ -1,8 +1,8 @@
 # Project Title
 ```
-Author(s): Your Name(s)
-Affiliation: Your University / Organization
-Date: Month Year
+Author: Sahil jayant ladke 
+Affiliation: Rashtrasant Tukadoji Maharaj Nagpur University
+Date: june 2026
 ```
 
 ## Abstract
