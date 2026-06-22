@@ -15,29 +15,42 @@ The user logs into the platform and uploads learning materials such as PDFs, lec
 ## Implementation
 
 **Programming Language**
+
 Python
 JavaScript
+
 **Frontend**
+
 React.js
 HTML
 CSS
+
 **Backend**
+
 FastAPI
 Database
 MongoDB
+
 **AI Technologies**
+
 Whisper (Speech-to-Text)
 EasyOCR
 Large Language Model (Llama 3 / Gemma / GPT)
 Retrieval-Augmented Generation (RAG)
+
 **Vector Database**
+
 FAISS
 APIs
 Groq API
+
 **Deployment**
+
 Vercel
 Render
+
 **Version Control**
+
 Git & GitHub
 
 
