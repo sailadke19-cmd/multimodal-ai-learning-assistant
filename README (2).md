@@ -14,13 +14,13 @@ The user logs into the platform and uploads learning materials such as PDFs, lec
 
 ## Implementation
 
-****Programming Language****:
+****Programming Language :****
 
 Python
 
 JavaScript
 
-****Frontend****:
+****Frontend :****:
 
 React.js
 
@@ -28,7 +28,7 @@ HTML
 
 CSS
 
-****Backend****:
+****Backend :****:
 
 FastAPI
 
@@ -36,7 +36,7 @@ Database
 
 MongoDB
 
-****AI Technologies****:
+****AI Technologies :****:
 
 Whisper (Speech-to-Text)
 
@@ -46,7 +46,7 @@ Large Language Model (Llama 3 / Gemma / GPT)
 
 Retrieval-Augmented Generation (RAG)
 
-****Vector Database****:
+****Vector Database :****:
 
 FAISS
 
@@ -54,13 +54,13 @@ APIs
 
 Groq API
 
-****Deployment****:
+****Deployment :****:
 
 Vercel
 
 Render
 
-****Version Control****:
+****Version Control :****:
 
 Git & GitHub
 
