@@ -21,14 +21,8 @@ app = FastAPI(title="AI Learning Assistant", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-    "http://localhost:5173",
-    "http://localhost:5174",
-    "https://multimodal-ai-learning-assistant-4m.vercel.app",
-    "https://multimodal-ai-learning-assistant-4mtb-2u6hit5za-sahil-projects4.vercel.app",
-    "https://multimodal-ai-learning-assistant.vercel.app",
-],
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
