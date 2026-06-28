@@ -77,28 +77,46 @@ Only a few languages are supported in the current edition.
 The accuracy of uploaded learning resources determines AI answers.
 
 ## Future Scope
--Multi-language support.
+-Multi-language support. 
+
 -Mobile application for Android and iOS.
-Voice-based AI tutor.
-Personalized learning recommendations.
-Student performance analytics dashboard.
-Integration with Learning Management Systems (LMS).
-Cloud storage for uploaded materials.
-Real-time collaborative learning features.
-AI-generated flashcards and mind maps.
+
+-Voice-based AI tutor.
+
+-Personalized learning recommendations.
+
+-Student performance analytics dashboard.
+
+-Integration with Learning Management Systems (LMS).
+
+-Cloud storage for uploaded materials.
+
+-Real-time collaborative learning features.
+
+-AI-generated flashcards and mind maps.
 
 ## Conclusion  
 Speech Recognition, OCR, Large Language Models, and Retrieval-Augmented Generation are all combined into one intelligent learning platform by the Multimodal AI Learning Assistant. It creates notes, summaries, tests, and answers automatically and lets students contribute lecture materials in various formats. The initiative shows how AI may make learning easier, cut down on study time, and enhance academic results. This platform has the potential to revolutionize digital education by improving accessibility, efficiency, and personalization of learning.
 
 ## References
-Radford, A., et al., Whisper: Robust Speech Recognition via Large-Scale Weak Supervision, OpenAI, 2022.
-Lewis, P., et al., Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, NeurIPS, 2020.
-Tesseract OCR Documentation.
-Meta AI, Llama Large Language Model Documentation.
-FAISS Documentation.
-FastAPI Official Documentation.
-MongoDB Official Documentation.
-React Official Documentation.
-Groq API Documentation.
-OpenAI Whisper Documentation.
+-Radford, A., et al., Whisper: Robust Speech Recognition via Large-Scale Weak Supervision, OpenAI, 2022.
+
+-Lewis, P., et al., Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, NeurIPS, 2020.
+
+-Tesseract OCR Documentation.
+
+-Meta AI, Llama Large Language Model Documentation.
+
+-FAISS Documentation.
+
+-FastAPI Official Documentation.
+
+-MongoDB Official Documentation.
+
+-React Official Documentation.
+
+-Groq API Documentation.
+
+-OpenAI Whisper Documentation.
+
 
