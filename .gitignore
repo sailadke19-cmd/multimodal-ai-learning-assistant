@@ -16,3 +16,12 @@ backend/uploads/
 # OS
 .DS_Store
 Thumbs.db
+.env
+.env.example
+__pycache__/
+*.pyc
+test.py
+test2.py
+clear_db.py
+venv/
+.venv/

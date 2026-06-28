@@ -21,7 +21,11 @@ app = FastAPI(title="AI Learning Assistant", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+    "http://localhost:5173",
+    "http://localhost:5174",
+    "https://multimodal-ai-learning-assistant.onrender.com",
+],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
