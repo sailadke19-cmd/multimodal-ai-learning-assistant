@@ -77,8 +77,8 @@ Only a few languages are supported in the current edition.
 The accuracy of uploaded learning resources determines AI answers.
 
 ## Future Scope
-Multi-language support.
-Mobile application for Android and iOS.
+-Multi-language support.
+-Mobile application for Android and iOS.
 Voice-based AI tutor.
 Personalized learning recommendations.
 Student performance analytics dashboard.
