@@ -16,53 +16,53 @@ The user logs into the platform and uploads learning materials such as PDFs, lec
 
 ****Programming Language :****
 
-Python
+-Python
 
-JavaScript
+-JavaScript
 
 ****Frontend :****
 
-React.js
+-React.js
 
-HTML
+-HTML
 
-CSS
+-CSS
 
 ****Backend :****
 
-FastAPI
+-FastAPI
 
-Database
+-Database
 
-MongoDB
+-MongoDB
 
 ****AI Technologies :****
 
-Whisper (Speech-to-Text)
+-Whisper (Speech-to-Text)
 
-EasyOCR
+-EasyOCR
 
-Large Language Model (Llama 3 / Gemma / GPT)
+-Large Language Model (Llama 3 / Gemma / GPT)
 
-Retrieval-Augmented Generation (RAG)
+-Retrieval-Augmented Generation (RAG)
 
 ****Vector Database :****
 
-FAISS
+-FAISS
 
-APIs
+-APIs
 
-Groq API
+-Groq API
 
 ****Deployment :****
 
-Vercel
+-Vercel
 
-Render
+-Render
 
 ****Version Control :****
 
-Git & GitHub
+-Git & GitHub
 
 
 ## Results and Discussion
