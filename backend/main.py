@@ -24,7 +24,9 @@ app.add_middleware(
     allow_origins=[
     "http://localhost:5173",
     "http://localhost:5174",
-    "https://multimodal-ai-learning-assistant.onrender.com",
+    "https://multimodal-ai-learning-assistant-4m.vercel.app",
+    "https://multimodal-ai-learning-assistant-4mtb-2u6hit5za-sahil-projects4.vercel.app",
+    "https://multimodal-ai-learning-assistant.vercel.app",
 ],
     allow_credentials=True,
     allow_methods=["*"],
