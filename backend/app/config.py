@@ -13,7 +13,7 @@ class Settings(BaseSettings):
     AI_PROVIDER: str = "groq"
     UPLOAD_DIR: str = "uploads"
     MAX_FILE_SIZE_MB: int = 100
-    ALLOWED_ORIGINS: list = ["http://localhost:5173", "http://localhost:5174"]
+    ALLOWED_ORIGINS: str = "http://localhost:5173,http://localhost:5174"
 
     class Config:
         env_file = ".env"
